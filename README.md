@@ -1,0 +1,1 @@
+# vn-jp-dev-product-journal
