@@ -32,13 +32,17 @@ It captures not only **technical challenges** but also **end-user expectations a
 
 vn-jp-dev-product-journal/
 │
-├── README.md              # Overview and navigation
+├── README.md               # Overview and navigation
+│
 ├── journal/               # Daily logs (experience entries)
-│   ├── YYYY-MM-DD.md      # Example: Day entry
-│   └── template.md        # Markdown template for new entries
+│   ├── YYYY-MM-DD.md       # Example: Day entry
+│   └── template.md         # Markdown template for new entries
+│
 ├── docs/                  # End-user standards and supporting notes
 │   └── enduser-standards.md
+│
 ├── images/                # Screenshots, diagrams, illustrations
+│
 └── lessons/               # Summaries of key lessons learned
 
 ---
