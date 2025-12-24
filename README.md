@@ -29,7 +29,7 @@ It captures not only **technical challenges** but also **end-user expectations a
 ---
 
 ## 📂 Repository Structure
-
+```text
 vn-jp-dev-product-journal/
 │
 ├── README.md               # Overview and navigation
