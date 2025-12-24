@@ -5,7 +5,8 @@ This repository is my personal journal and portfolio documenting the journey of 
 It captures not only **technical challenges** but also **end-user expectations and cultural standards** that shape how software is used in Japan.
 
 ## 👤 My Role
-- **Requirement Handler**: Collect requirements, clarify feedback, and prioritize tasks.
+- **Requirement Analyst & Handler**: Collect requests from end users, analyze them, create test cases, and prioritize tasks based on business needs.  
+- **User Representative**: Join meetings to capture the wishes and expectations of Japanese end users, ensuring their voice is reflected in the system.  
 - **Software Developer**: Implement features, fix bugs, and design system flows.  
 - **Observer of End-User Standards**: Document how Japanese users expect screens, reports, and workflows to look and behave.  
 
