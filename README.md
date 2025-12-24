@@ -44,7 +44,7 @@ vn-jp-dev-product-journal/
 ├── images/                # Screenshots, diagrams, illustrations
 │
 └── lessons/               # Summaries of key lessons learned
-
+```text
 ---
 
 ## 📝 How to Navigate
