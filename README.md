@@ -44,7 +44,7 @@ vn-jp-dev-product-journal/
 ├── images/                # Screenshots, diagrams, illustrations
 │
 └── lessons/               # Summaries of key lessons learned
-
+````
 ---
 
 ## 📝 How to Navigate
@@ -52,7 +52,7 @@ vn-jp-dev-product-journal/
 - **docs/** → End-user conventions and standards (e.g., screen layouts, button placement, terminology).  
 - **images/** → Visuals to support entries.  
 - **lessons/** → Summaries of big takeaways after weeks/months.  
-````
+
 ---
 
 ## 🚀 Next Steps
